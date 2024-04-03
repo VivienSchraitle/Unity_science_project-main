@@ -49,11 +49,6 @@ ExportedObj/
 *.opendb
 *.VC.db
 *.config
-*.Settings
-*.json
-*Packages*
-*MixedReality*
-*[Nn]uget*
 OBDotNet.dll
 
 
@@ -65,11 +60,6 @@ OBDotNet.dll
 
 
 
-# Unity3D generated meta files
-Assets/Samples/**/*.meta
-Assets/plugins/**/*.meta
-Assets/MRTK/**/*.meta
-Assets/StreamingAssets/**/*.meta
 
 # Unity3D backup files
 *.backup
